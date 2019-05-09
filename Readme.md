@@ -1,3 +1,4 @@
 # java
-This is m Java practice programs.
+This is my Java practice programs.
+Just keep on practicing =D ...
 
